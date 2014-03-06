@@ -1,0 +1,1 @@
+trigger RHX_Asset on Asset (after insert, after update, after delete, after undelete) {}
