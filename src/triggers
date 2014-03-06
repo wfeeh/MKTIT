@@ -1,0 +1,4 @@
+Trigger Trigger_Account on Account(before insert) {
+
+
+}
